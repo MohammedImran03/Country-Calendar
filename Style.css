@@ -1,0 +1,24 @@
+#Countryselect{
+    width: 250px;
+}
+#Yearselect{
+    width: 250px;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+}
+table td, table th {
+    border: 1px solid black;
+  }
+tbody tr:nth-child(even){background-color: #a2dca1;}
+
+tbody tr:hover {background-color: #76e0c9;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #75c1a5;
+  color: rgb(96, 236, 45);
+}
